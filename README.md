@@ -1,5 +1,10 @@
 # grass_comm_node_bot
 
+`sudo apt install python3-pip`
+
+`sudo apt install python3-venv`
+
+
 `pip3 install websockets_proxy`
 
 
