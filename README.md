@@ -20,7 +20,7 @@ If you don't use a proxy, run no_proxy.py
 2. Press F12 on the page to open the console and enter the code
 `localStorage.getItem('userId')`
 
-The printed text is the user_id of the current user
+The printed text is the user_id of the current user.
 
 
 ![userid](https://github.com/user-attachments/assets/2fd885ac-73c9-4d0b-b4ab-56c2d6d7e269)
