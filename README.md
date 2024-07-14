@@ -1,4 +1,4 @@
-# getgrass_bot
+# grass_comm_node_bot
 
 `pip3 install websockets_proxy`
 
@@ -6,7 +6,7 @@
 `pip3 install loguru`
 
 
-Modify the user_id and sock5 proxy list in the main function
+Modify the user_id and socks5 proxy list in the main function
 If you don't use a proxy, run no_proxy.py
 
 ### Invite Link
